@@ -1,0 +1,4 @@
+map_name: WW3Circa1955
+games:
+- {game_name: WW3 Circa 1955, file_name: WorldWar3-1955.xml}
+version: 0
